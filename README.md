@@ -1,7 +1,7 @@
-# $${\color{white}PROFILE}$$ 
+# PROFILE
 
 
-## $${\color{white}ABOUT‎:}$$ 
+## ABOUT
 
 ##### Electrical and Electronics Engineer
 
